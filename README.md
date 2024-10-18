@@ -6,3 +6,4 @@ Add deployment script.
 Added new JSON property item.
 Used Flag for proper config redirection.
 Added .env variables.
+Modularized code.
