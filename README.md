@@ -8,3 +8,4 @@ Used Flag for proper config redirection.
 Added .env variables.
 Modularized code.
 Debugging on empty data.
+Fixing deployment error.
