@@ -9,3 +9,4 @@ Added .env variables.
 Modularized code.
 Debugging on empty data.
 Fixing deployment error.
+Fixed parent-child relation.
