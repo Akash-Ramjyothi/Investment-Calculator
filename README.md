@@ -10,3 +10,4 @@ Modularized code.
 Debugging on empty data.
 Fixing deployment error.
 Fixed parent-child relation.
+Implemented co-ordinates list generating function.
