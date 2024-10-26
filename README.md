@@ -14,3 +14,4 @@ Implemented co-ordinates list generating function.
 Fixed environment variables logging error.
 Changing output structure and hierarchy.
 Added concatinated fields with child values.
+Added format_key function.
