@@ -18,3 +18,4 @@ Added format_key function.
 Removing duplicate fields.
 Shifting modules.
 Fixed POST request to API issue.
+Corrected displaying values.
