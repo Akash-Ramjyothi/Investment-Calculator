@@ -19,3 +19,4 @@ Removing duplicate fields.
 Shifting modules.
 Fixed POST request to API issue.
 Corrected displaying values.
+Changed to proper name conventions.
