@@ -20,3 +20,4 @@ Shifting modules.
 Fixed POST request to API issue.
 Corrected displaying values.
 Changed to proper name conventions.
+Fixing bug in proper keys to be displayed.
